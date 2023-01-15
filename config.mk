@@ -1,10 +1,10 @@
 # slock version
-VERSION = 1.5
+VERSION = 1.5.0-ptch
 
 # Customize below to fit your system
 
 # paths
-PREFIX = /usr/local
+PREFIX = /usr/local/stow/slock
 MANPREFIX = ${PREFIX}/share/man
 
 X11INC = /usr/X11R6/include
